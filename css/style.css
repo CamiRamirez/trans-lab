@@ -1,1 +1,45 @@
-/* YeyeYeee código aquí */
+.logo{
+  text-align: center;
+}
+
+#logoLogin{
+  width: 10em;
+  height: 10em;
+  margin-top: 3em;
+}
+
+#tituloLogin{
+  color: orange;
+  font-size: 2.5em;
+}
+
+.formLogin{
+  color: white;
+}
+
+#forgotPass{
+  font-size: 1em;
+  margin-top: 1em;
+}
+
+.loginUser{
+  background-color: #424242;
+  height: 50em;
+}
+
+.btn-primary{
+  margin-top: 2em;
+  width: 100%;
+  background-color: orange;
+  border: none;
+  color: #424242;
+}
+
+.afterEntering{
+  display: none;
+}
+
+.btnIngresar{
+  display: none;
+}
+
