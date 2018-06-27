@@ -1,3 +1,4 @@
+/* SECCION DE LOGIN */
 .logo{
   text-align: center;
 }
@@ -41,6 +42,7 @@
   color: #424242;
 }
 
+/* SECCION DE INDEX */
 .btn-secondary{
   width: 80%;
   background-color: orange;
@@ -59,4 +61,32 @@
 
 .backStyle{
   background-color: #D8D8D8;
+}
+
+/* SECCION DE PREGUNTAS FRECUENTES */
+
+.questionsCol{
+  background-color: orange;
+  
+  height: 15em;
+}
+
+#titleQuestions {
+  text-align: center;
+  color: white;
+  font-size: 2em;
+  margin-top: 3em;
+}
+
+.panel-heading{
+  background-color: white;
+  margin: 1em;
+}
+.panel-body{
+  background-color: white;
+  margin: 1em;
+}
+.titleCollapse{
+  color: black;
+  font-size: 1.5em;
 }
