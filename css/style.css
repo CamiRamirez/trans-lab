@@ -81,12 +81,19 @@
 .panel-heading{
   background-color: white;
   margin: 1em;
+  border-radius: 5px;
 }
 .panel-body{
   background-color: white;
-  margin: 1em;
+  margin: 1em;  
 }
+
 .titleCollapse{
   color: black;
-  font-size: 1.5em;
+  font-size: 0.7em;
+ margin-left: 1em;
+}
+
+#accordion{
+  margin-top: 2.5em;
 }
